@@ -1,0 +1,166 @@
+
+@media screen and (min-width: 768px) {
+    #secao__conteudo__satelite, #secao__conteudo__yuri, #secao__conteudo__lua, #secao__conteudo__estacao, #secao__conteudo__veiculo, #secao__conteudo__laboratorio, #secao__conteudo__marte, #secao__conteudo__rover, #secao__conteudo__vida{
+        min-width: 750px;
+        max-width: 900px;
+        margin: 70px auto;
+        border-radius: 17px;
+    }
+
+    .sub__titulo{
+        font-size: 1.7em;
+    }
+
+    .BTN__nav{
+        font-size: 1.3em
+    }
+
+    .container__BTN{
+        width: 510px;
+    }
+    .conteudo{
+        width: 500px;
+    }
+   
+    .titulo__principal{
+        font-size: 3em;
+    }
+
+    .container__texto{
+        font-size: 1.3em;
+    }
+
+    .inf_roda_pa{
+        font-size: 1.3em;
+    }
+
+    #imagens{
+        height: 600px;
+        transform: translate(-50%, -40%);
+    }
+    #imagens__yuri{
+        max-height: 600px;
+        transform: translate(-50%, 0%);
+    }
+    #imagens__lua{
+        max-height: 400px;
+        transform: translate(-50%, 0%);
+    }
+    #imagens__estacao{
+        transform: translate(-50%, 10%);
+    }
+    #imagens__veiculo{
+        transform: translate(-50%, 10%);
+    }
+    #imagens__laboratorio{
+        transform: translate(-50%, 0%);
+    }
+    #imagens__marte{
+        transform: translate(-50%, 1%);
+    }
+    #imagens__rover{
+        transform: translate(-50%, 1%);
+    }
+    #imagens__vida{
+        transform: translate(-50%, 1%);
+    }
+    #imagens__vida{
+        transform: translate(-50%, 4%);
+    }
+    
+    #secao__conteudo__satelite{
+        height: 730px;
+    }
+    #secao__conteudo__yuri{
+        height: 720px;
+    }
+    #secao__conteudo__lua{
+        height: 900px;
+    }
+    #secao__conteudo__estacao{
+        height: 770px;
+    }
+    #secao__conteudo__veiculo{
+        height: 730px;
+    }
+    #secao__conteudo__laboratorio{
+        height: 780px;
+    }
+    #secao__conteudo__marte{
+        height: 680px;
+    }
+    #secao__conteudo__rover{
+        height: 680px;
+    }
+    #secao__conteudo__vida{
+        height: 660px;
+    }
+    
+}
+
+@media screen and (min-width: 1200px) {
+    #secao__conteudo__satelite, #secao__conteudo__yuri, #secao__conteudo__lua, #secao__conteudo__estacao, #secao__conteudo__veiculo, #secao__conteudo__laboratorio, #secao__conteudo__marte, #secao__conteudo__rover, #secao__conteudo__vida{
+        width: 1100px;
+    }
+
+
+    #imagens__yuri{
+        max-height: 500px;
+        transform: translate(-50%, 0%);
+    }
+    #imagens__lua{
+        max-height: 400px;
+        transform: translate(-50%, 0%);
+    }
+    #imagens__estacao{
+        transform: translate(-50%, 10%);
+    }
+    #imagens__veiculo{
+        transform: translate(-50%, 10%);
+    }
+    #imagens__laboratorio{
+        transform: translate(-50%, 0%);
+    }
+    #imagens__marte{
+        transform: translate(-50%, 1%);
+    }
+    #imagens__rover{
+        transform: translate(-50%, 1%);
+    }
+    #imagens__vida{
+        transform: translate(-50%, 1%);
+    }
+    #imagens__vida{
+        transform: translate(-50%, 4%);
+    }
+    
+    #secao__conteudo__satelite{
+        height: 740px;
+    }
+    #secao__conteudo__yuri{
+        height: 730px;
+    }
+    #secao__conteudo__lua{
+        height: 910px;
+    }
+    #secao__conteudo__estacao{
+        height: 770px;
+    }
+    #secao__conteudo__veiculo{
+        height: 730px;
+    }
+    #secao__conteudo__laboratorio{
+        height: 780px;
+    }
+    #secao__conteudo__marte{
+        height: 680px;
+    }
+    #secao__conteudo__rover{
+        height: 690px;
+    }
+    #secao__conteudo__vida{
+        height: 670px;
+    }
+    
+}
+
