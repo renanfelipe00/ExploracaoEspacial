@@ -18,18 +18,17 @@ body{
 }
 
 .titulo__principal{
-    font-size: 2.5em;
-    font-weight: 500;
+    font-size: 2.3em;
     text-align: center;
     color: rgb(255, 255, 255);
-    line-height: 46px;
+    line-height: 45px;
     font-family: "Arapey";
 }
 
 .container__BTN{
     position: absolute;
-    top: 4%;
-    width: 435px;
+    top: 3.5%;
+    width: 280px;
     left: 50%;
     transform: translate(-50%);
 }
@@ -39,8 +38,9 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 1.1em;
     text-align: center;
-    padding: 4px;
+    padding: 5px;
     cursor: pointer;
+    margin: 1px;
 }
 
 .BTN__nav:hover{
@@ -49,7 +49,7 @@ body{
 }
 
 .conteudo{
-    padding: 20px 0px;
+    padding: 10px 0px;
     margin: auto;
     width: 360px;
     height: 500px;
@@ -58,7 +58,7 @@ body{
 .sub__titulo{
     font-size: 1.5em;
     font-weight: 600;
-    padding: 15px 0px;
+    padding: 10px 0px;
     color: white;
     line-height: 30px;
     font-family: 'Prompt';
@@ -100,7 +100,7 @@ body{
 
 
 #imagens, #imagens__yuri, #imagens__lua, #imagens__estacao, #imagens__veiculo, #imagens__laboratorio, #imagens__marte, #imagens__rover, #imagens__vida{
-    padding-top: 20px;
+    padding-top: 15px;
     max-width: 360px;
     max-height: 300px;
     position: absolute;
