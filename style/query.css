@@ -1,5 +1,5 @@
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 770px) {
     #secao__conteudo__satelite, #secao__conteudo__yuri, #secao__conteudo__lua, #secao__conteudo__estacao, #secao__conteudo__veiculo, #secao__conteudo__laboratorio, #secao__conteudo__marte, #secao__conteudo__rover, #secao__conteudo__vida{
         min-width: 750px;
         max-width: 900px;
