@@ -28,9 +28,9 @@ body{
 
 .container__BTN{
     position: absolute;
-    width: 445px;
-    top: 340px;
-    left: 51%;
+    top: 4%;
+    width: 435px;
+    left: 50%;
     transform: translate(-50%);
 }
 

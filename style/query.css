@@ -6,6 +6,11 @@
         margin: 70px auto;
         border-radius: 17px;
     }
+    
+    .container__BTN{
+        left: 51%;
+        transform: translate(-50%);
+    }
 
     .sub__titulo{
         font-size: 1.7em;
